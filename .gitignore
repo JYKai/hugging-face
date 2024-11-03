@@ -1,0 +1,14 @@
+# IPython files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Chapter 001
+**/001_hugging-face/resnet-18/
+
+# Chapter 002
+**/002_hugging-faca-transformer/token-classification/
+**/002_hugging-faca-transformer/wandb/
+
+# Data
+datasets/
+images/
