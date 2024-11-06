@@ -7,8 +7,14 @@
 
 # Chapter 002
 **/002_hugging-faca-transformer/token-classification/
-**/002_hugging-faca-transformer/wandb/
 
-# Data
+# Chapter 003
+
+
+# Common
+**/**/**/checkpoint-*
+**/**/**/runs
+**/**/**/*.csv
+**/**/wandb/
 datasets/
 images/
